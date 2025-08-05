@@ -2,6 +2,8 @@
 
 A Retrieval-Augmented Generation (RAG) application that provides intelligent country information search using semantic similarity and local language models.
 
+> **Guided Project**: This project was developed as part of the **"Introduction to Retrieval Augmented Generation (RAG)"** guided project on Coursera. The implementation demonstrates practical application of RAG concepts learned during the guided project.
+
 ## 🌍 Overview
 
 This project implements a RAG system that combines:
@@ -136,6 +138,10 @@ Rag-project/
 ![Query Examples](screenshots/query-examples.png)
 *Various query examples demonstrating the semantic search capabilities*
 
+### Guided Project Certificate
+![Coursera Certificate](screenshots/coursera-certificate.pdf)
+*Certificate of completion for "Introduction to Retrieval Augmented Generation (RAG)" guided project on Coursera*
+
 ## 📊 Dataset
 
 The `countries.csv` file contains information about 195 countries including:
@@ -195,6 +201,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
+- **Coursera** for the excellent "Introduction to Retrieval Augmented Generation (RAG)" guided project
 - **LLaMA.cpp** for local language model inference
 - **Sentence Transformers** for text embeddings
 - **Qdrant** for vector database functionality
